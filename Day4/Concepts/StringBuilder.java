@@ -1,4 +1,6 @@
 package Day4.Concepts;
+ 
+//StringBuilder is a mutable sequence of characters.
 
 public class StringBuilder {
     public static void main(String[] args) {
