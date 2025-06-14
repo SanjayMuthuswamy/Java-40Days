@@ -4,6 +4,8 @@ public class Employee {
     private   int empid ; 
     private String empname  ; 
     private  float salary ; 
+    private String depname  ;  
+
 
     public void setEmp_Details (){
         java.util.Scanner  scan = new java.util.Scanner(System.in) ; 
@@ -11,6 +13,7 @@ public class Employee {
         this.empid  = scan.nextInt() ; 
         this.empname  = scan.next() ; 
         this.salary = scan.nextFloat () ; 
+        this.depname = scan.next() ;
     }
 
     public int getId() {
@@ -21,6 +24,9 @@ public class Employee {
     }
     public Float getSalary() {
         return this.salary ; 
+    }
+    public String getDepname() {
+        return this.depname ; 
     }
     
 }

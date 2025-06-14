@@ -5,7 +5,7 @@ package Day5OOPS.Inheritance.SingleInheritance;
 
 public class Main {
     public static void main(String[] args) {
-        EmpDepartment emp = new EmpDepartment() ; 
+        Project emp = new Project() ; 
         emp.getdpt () ; 
     }
 }
