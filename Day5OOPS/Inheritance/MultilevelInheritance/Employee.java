@@ -16,6 +16,7 @@ public class Employee {
         this.salary = scan.nextFloat();
         this.depname = scan.next();
     }
+    
     public int getId() {
         return this.empid;
     }
