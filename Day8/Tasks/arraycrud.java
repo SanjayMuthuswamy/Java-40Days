@@ -1,4 +1,4 @@
-package Day8;
+package Day8.Tasks;
 
 import java.util.ArrayList;
 import java.util.Scanner;
