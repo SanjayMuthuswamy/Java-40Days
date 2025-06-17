@@ -49,3 +49,18 @@ public class LinkedListp {
         System.out.println("After clear(): " + linkedlist);
     }
 }
+
+// | Method                                      | Purpose              |
+// | ------------------------------------------- | -------------------- |
+// | `add()`                                     | Adds to end          |
+// | `addFirst()`                                | Adds to front        |
+// | `addLast()`                                 | Adds to end          |
+// | `offer()`, `offerFirst()`, `offerLast()`    | Queue-style adds     |
+// | `get()`, `getFirst()`, `getLast()`          | Access elements      |
+// | `peek()`, `peekFirst()`, `peekLast()`       | View without remove  |
+// | `remove()`, `removeFirst()`, `removeLast()` | Remove elements      |
+// | `poll()`, `pollFirst()`, `pollLast()`       | Remove (null-safe)   |
+// | `contains()`                                | Checks for element   |
+// | `clear()`                                   | Removes all elements |
+// | `size()`                                    | List size            |
+// | `isEmpty()`                                 | Check if empty       |
