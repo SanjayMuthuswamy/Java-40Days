@@ -1,4 +1,4 @@
-// package Day3.Concepts;
+package Day3.Concepts;
 
 // / Note: Static methods can be called directly without creating an instance of the class.
 class Staticclass{

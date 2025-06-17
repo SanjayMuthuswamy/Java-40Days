@@ -1,4 +1,3 @@
-
 import java.util.Scanner; 
 public class RLtraversal {
     public static void main(String[] args) {
@@ -11,6 +10,10 @@ public class RLtraversal {
                 array[i][j] = scan.nextInt() ;
             }
         }
-       
     }
 }
+
+
+
+
+
