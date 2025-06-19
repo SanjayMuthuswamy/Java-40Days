@@ -19,3 +19,7 @@ public class EncapsulationMain {
 }
 
 // Its is like ATM  , the user wont know  where the data is stoored in the backend file  . In the backend theere is a method for each variables as get(variable) and gives to the front user. 
+
+
+//Hiding data ,  is encapsulation
+//Hiding implementations abstraction
