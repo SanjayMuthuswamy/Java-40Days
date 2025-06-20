@@ -20,7 +20,6 @@ class Aids extends Abstractclass {
     public void sub() {
         System.out.println("You are Have 2Labs (DS, AI ,  PowerBI) " );
     }
-
 }
 
 class Aiml extends Abstractclass {
@@ -54,4 +53,5 @@ public class AbstractClassconcept{
         dpt2.sub();
 
     }
-}
+}                  
+                  
