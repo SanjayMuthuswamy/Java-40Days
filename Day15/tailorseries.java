@@ -19,7 +19,7 @@ public class tailorseries {
         if (n==0) return 1;
         return (Math.pow(x, n) / fact(n))  + Tailor(x, n-1);
     }
-
+ 
     public static double fact(int a) {
         if (a == 0 || a == 1) return 1;
         return a * fact(a - 1);
